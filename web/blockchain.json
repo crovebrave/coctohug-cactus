@@ -3,6 +3,8 @@
   "binary": "/cactus-blockchain/venv/bin/cactus",
   "mainnet": ".cactus/mainnet",
   "config": ".cactus/mainnet/config/config.yaml",
+  "coldWalletName": "cac_target_address",
+  "certificates": ".cactus/mainnet/config/ssl/ca",
   "chainlog": ".cactus/mainnet/log/debug.log",
   "webLogLevel": "error",
   "webLogFile": ".cactus/web.log",
