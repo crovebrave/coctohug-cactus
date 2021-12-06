@@ -53,8 +53,5 @@ Easy Setup using [Quick Start](https://www.coctohug.xyz/)
 ## Trademark Notice
 CHIA NETWORK INC, CHIA™, the CHIA BLOCKCHAIN™, the CHIA PROTOCOL™, CHIALISP™ and the “leaf Logo” (including the leaf logo alone when it refers to or indicates Chia), are trademarks or registered trademarks of Chia Network, Inc., a Delaware corporation. *There is no affliation between this Coctohug project and the main Chia Network project.*Sun Nov 28 21:01:20 CST 2021
 
-Mon Dec 6 14:48:00 CST 2021
-Mon Dec 6 14:51:49 CST 2021
-Mon Dec 6 14:54:05 CST 2021
-Mon Dec 6 14:57:06 CST 2021
-Mon Dec 6 15:06:02 CST 2021
+
+\n
